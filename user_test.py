@@ -1,4 +1,4 @@
-# import unittest
+import unittest
 from user import User
 class TestUser(unittest.TestCase):
 
@@ -73,5 +73,5 @@ class TestUser(unittest.TestCase):
 
 
 
-# if __name__ == '__main__':
-#     unittest.main()
+if __name__ == '__main__':
+    unittest.main()
