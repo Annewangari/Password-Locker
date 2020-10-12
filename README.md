@@ -43,7 +43,7 @@ $ ./run.py
 
 $ python3.6 user_test.py
 
-$ python3.6 credential_test.py
+$ python3.6 credentials_test.py
 
 # Contacts
 Incase of any feedback or question kindly reach me at.
