@@ -13,7 +13,8 @@ Python 3.6
 # Applicaation requirement
 1. Ensure you have Python3.6 installed in your computer. you can download it by running this command
 $ sudo apt-get update sudo apt-get install python3.6.
-
+2. Ensure you have PiP installed in your computer, you can download it by running this command:
+python3.6 -m pip install pyperclip
 # Project Setup instruction/installations
 1. From the repository, click + in the global sidebar and select Clone this repository .
 
